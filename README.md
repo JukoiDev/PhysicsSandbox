@@ -1,7 +1,7 @@
 # PhysicsSandbox
 Awli's Physics Sandbox written entirely in Java using unoptimised code
 
-** Currently supports **
+**Currently supports**
 - Bounciness(restitution)
 - Velocity
 - Mass
